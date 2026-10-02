@@ -4,6 +4,7 @@
   "description": "Production Web Portfolio & Live Website Embeds by Talha",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'Static site ready'",
     "start": "node server.js",
     "dev": "node server.js"
   },
