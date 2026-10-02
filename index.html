@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Talha — Selected Web Works & Production Embeds</title>
+  <meta name="description" content="Portfolio of 13 live production websites by Talha — automotive detailing, luxury jewelry, architecture, fitness sanctuaries, and modern e-commerce.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Minimal Header -->
+  <header class="site-header">
+    <div class="header-container">
+      <a href="#" class="brand-wrapper">
+        <span class="brand-title">TALHA</span>
+        <span class="brand-count">/ 13 Works</span>
+      </a>
+
+      <div class="header-right">
+        <span class="header-meta-tag">Live Embeds</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Minimal Hero -->
+    <section class="hero-section">
+      <p class="hero-label">Portfolio &bull; Selected Works</p>
+      <h1 class="hero-heading">Websites, applications &amp; digital platforms.</h1>
+      <p class="hero-description">
+        Curated showcase of 13 production websites built across automotive aesthetics, luxury ateliers, architecture, fitness, and modern e-commerce.
+      </p>
+    </section>
+
+    <!-- Controls Bar -->
+    <section class="controls-bar">
+      <div class="controls-inner">
+        <!-- Categories -->
+        <nav class="category-nav" id="category-nav" aria-label="Project categories">
+          <!-- Populated via JavaScript -->
+        </nav>
+
+        <!-- Search -->
+        <div class="search-wrapper">
+          <input 
+            type="text" 
+            id="search-input" 
+            class="search-input" 
+            placeholder="Search projects..." 
+            aria-label="Search projects"
+          >
+          <button class="search-clear" id="search-clear-btn" aria-label="Clear search">✕</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects Grid -->
+    <section class="showcase-section">
+      <div class="projects-grid" id="projects-grid">
+        <!-- Dynamically rendered project cards -->
+      </div>
+
+      <!-- Empty State -->
+      <div class="empty-state" id="empty-state">
+        <h3>No projects found</h3>
+        <p>There are no projects matching your active filter or search query.</p>
+        <button class="btn-reset" id="btn-reset">Show all projects</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Clean Modal View -->
+  <div class="modal-overlay" id="quick-modal" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="modal-box">
+      <div class="modal-bar">
+        <span class="modal-project-title" id="modal-title">Project Title</span>
+        <div style="display: flex; align-items: center; gap: 0.75rem;">
+          <a href="#" target="_blank" rel="noopener noreferrer" class="btn-open-site" id="modal-visit-link">
+            Open in new tab ↗
+          </a>
+          <button class="modal-close-btn" id="modal-close-btn" aria-label="Close modal">Close ✕</button>
+        </div>
+      </div>
+      <div class="modal-stage">
+        <iframe id="modal-iframe" title="Full size preview" src="about:blank"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <!-- Minimal Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>&copy; 2026 Talha. Selected portfolio embeds.</span>
+      <div class="footer-links">
+        <span>13 Production Websites</span>
+        <span>HTML &bull; CSS &bull; JavaScript</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="projects-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

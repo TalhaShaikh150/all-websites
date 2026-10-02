@@ -1,0 +1,20 @@
+{
+  "name": "talha-websites-portfolio",
+  "version": "1.0.0",
+  "description": "Production Web Portfolio & Live Website Embeds by Talha",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "web-developer",
+    "showcase",
+    "iframe-embeds",
+    "responsive-design",
+    "cyber-luxury"
+  ],
+  "author": "Talha",
+  "license": "MIT"
+}
