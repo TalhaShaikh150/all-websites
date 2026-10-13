@@ -1,5 +1,5 @@
-# Talha — Selected Works & Production Web Portfolio
 
+<<<<<<< HEAD
 A minimalist, high-typography black & white portfolio showcasing **13 live production websites** created by **Talha** using proportional 16:10 scaled iframe previews.
 
 ---
@@ -42,3 +42,5 @@ Double-click [`index.html`](file:///c:/Users/User/OneDrive/Desktop/All%20Website
 node server.js
 ```
 Then visit: `http://localhost:3000`
+=======
+>>>>>>> 8e29b3589ba9147f4b516b9d589e5a842df94a23
