@@ -8,16 +8,16 @@ A minimalist, high-typography black & white portfolio showcasing **13 live produ
 
 | # | Project | Category | Live URL | Focus |
 |---|---|---|---|---|
-| 01 | **The Martinez Touch** | Automotive & Detailing | `https://martinez-demo.netlify.app/` | Miami luxury auto aesthetics &bull; IG: [@themartineztouch_](https://www.instagram.com/themartineztouch_/) |
-| 02 | **Andres Details** | Automotive & Detailing | `https://andreas-details.netlify.app/` | Precision detailing & paint correction &bull; IG: [@andresdetails](https://www.instagram.com/andresdetails/) |
-| 03 | **Miller's Mobile Detailing** | Automotive & Detailing | `https://millers-detailing-demo.netlify.app/` | Kissimmee & Orlando fleet service &bull; IG: [@staymadclean](https://www.instagram.com/staymadclean/) |
-| 04 | **Ceramix Auto Detailing** | Automotive & Detailing | `https://ceramixauto.netlify.app/` | Tampa Bay ceramic protection &bull; IG: [@ceramixautodetailing](https://www.instagram.com/ceramixautodetailing/) |
+| 01 | **The Martinez Touch** | Automotive & Detailing | `https://talhashaikh150.github.io/demo-sites/Martinez/index.html` | Miami luxury auto aesthetics &bull; IG: [@themartineztouch_](https://www.instagram.com/themartineztouch_/) |
+| 02 | **Andres Details** | Automotive & Detailing | `https://talhashaikh150.github.io/demo-sites/Andres/index.html` | Precision detailing & paint correction &bull; IG: [@andresdetails](https://www.instagram.com/andresdetails/) |
+| 03 | **Miller's Mobile Detailing** | Automotive & Detailing | `https://talhashaikh150.github.io/demo-sites/Millers/index.html` | Kissimmee & Orlando fleet service &bull; IG: [@staymadclean](https://www.instagram.com/staymadclean/) |
+| 04 | **Ceramix Auto Detailing** | Automotive & Detailing | `https://talhashaikh150.github.io/demo-sites/Ceramix/index.html` | Tampa Bay ceramic protection &bull; IG: [@ceramixautodetailing](https://www.instagram.com/ceramixautodetailing/) |
 | 05 | **Royal Art Jewel** | Luxury & Jewelry | `https://royal-art.netlify.app/` | Haute Joaillerie, fine diamonds & custom atelier |
 | 06 | **CHRONOS** | Luxury & Jewelry | `https://chronos-watch-one.vercel.app/` | Swiss horology & precision timepieces |
 | 07 | **OLYMPUS** | Fitness & Wellness | `https://olympus-gym-eight.vercel.app/` | Human performance sanctuary & training facility |
 | 08 | **Friendly Family Fitness** | Fitness & Wellness | `https://family-friends-gym.netlify.app/` | Brooklyn NYC private gym & personal training |
 | 09 | **Hydro Healing Cardiff** | Fitness & Wellness | `https://hydro-healing.netlify.app/` | Hydrotherapy, infrared recovery & holistic spa |
-| 10 | **STRATA** | Architecture & Design | `https://zesty-biscochitos-d6642c.netlify.app/` | Architectural vision & bespoke residences |
+| 10 | **STRATA** | Architecture & Design | `https://talhashaikh150.github.io/demo-sites/Construction/index.html` | Architectural vision & bespoke residences |
 | 11 | **OBLIVION STRUCTURES** | Architecture & Design | `https://dynamic-cannoli-50cea5.netlify.app/` | Futuristic mega-structures & experimental engineering |
 | 12 | **Serenity Design Studio** | Architecture & Design | `https://serenity-studio-demo.netlify.app/` | Minimalist interior architecture & Japanese/Nordic living |
 | 13 | **Furniro** | E-Commerce | `https://talha-next-hackathon.vercel.app/` | Next.js full modern furniture & home living storefront |

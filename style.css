@@ -331,6 +331,14 @@ body {
   display: flex;
   align-items: center;
   gap: 0.25rem;
+  max-width: 50%;
+  min-width: 0;
+}
+
+.card-external-arrow span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .card-external-arrow:hover {
